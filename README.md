@@ -1,5 +1,16 @@
 ## Hey there 👋, I'm Sandiv!
 
+<p align="center">
+	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
+</p>
+<p align="center"><b>We received a proper request from your browser.</b></p>
+<p align="center">Not sorry about that. Do not try refreshing and don't contact us if the problem persists.</p>
+<p align="center">
+	 <a href="https://linkedin.com/in/sandivd">Contact Support</a> —
+	 <a href="https://linkedin.com/in/sandivd">GitHub Status</a> —
+	 <a href="https://linkedin.com/in/sandivd">@githubstatus</a>
+</p>
+
 ## Who Am I
 🎓 I'm a second-year Computer Science student at University of Melbourne.  
 🌱 Currently learning **Python, C, HTML, CSS, and JavaScript**.  
@@ -17,7 +28,7 @@
 #### 💻 Scripting  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 
-
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sandivd&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandivd&layout=compact&theme=dark)
+
