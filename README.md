@@ -16,19 +16,18 @@
 🌱 Currently learning **Python, C, HTML, CSS, and JavaScript**.  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sandivd) | [Email](mailto:sandivd2000@gmail.com)
 
-## ⚒️ Tools & Technologies  
+## ⚒️ Skills & Expertise
 
-#### 🖥️ Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=python,js,react,mongodb,bootstrap,mysql,java,html,css,windows,git,github&perline=12" />
+  </a>
+</p>
 
-#### ⚙️ Backend  
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-#### 💻 Scripting  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sandivd&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandivd&layout=compact&theme=dark)
-
+## 🗣️ GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandivd&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandivd&layout=compact&theme=dark"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandivd&theme=dark&border_color=303030&border_radius=4"  />
+  <img src="https://streak-stats.demolab.com?user=sandivd&theme=github-dark-blue&border_radius=10&card_width=500&background=0E0E0E&border=303030" alt="GitHub Streak" />
+</div>
