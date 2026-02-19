@@ -12,7 +12,7 @@
 </p>
 
 ## Who Am I
-🎓 I'm a second-year Computer Science student at University of Melbourne.  
+🎓 I'm a third-year Computer Science student at University of Melbourne.  
 🌱 Currently learning **Python, C, Java, and JavaScript**.  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sandivd) | [Email](mailto:sandivd2000@gmail.com)
 
